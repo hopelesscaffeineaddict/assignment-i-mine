@@ -1,0 +1,1 @@
+You can view the assignment specification here: [https://gitlab.cse.unsw.edu.au/coursework/COMP2511/26T3/specs/assignment-i-spec](https://gitlab.cse.unsw.edu.au/coursework/COMP2511/26T3/specs/assignment-i-spec)
